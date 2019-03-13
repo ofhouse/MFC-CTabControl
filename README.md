@@ -14,5 +14,5 @@ This project was created with Visual Studio 2010.
 
 <!-- prettier-ignore-end -->
 
-# LICENSE
+## License
 MIT - see [LICENSE](./LICENSE) for details.
